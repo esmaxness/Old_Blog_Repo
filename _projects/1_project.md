@@ -2,7 +2,7 @@
 layout: page
 title: TERMINET
 description: nexT gEneRation sMart INterconnectEd ioT 
-img: assets/img/TERMINET2.png
+img: assets/img/TERMINET_Final.png
 importance: 1
 category: work
 related_publications: Sarabia_J_come_2023
