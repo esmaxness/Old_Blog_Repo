@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: IoT and Future Internet Researcher #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: IoT and Future Internet Researcher at <a href='#'>i2CAT</a>. #Address. Contacts. Moto. Etc.
 
 profile:
   align: center
