@@ -1,7 +1,7 @@
 ---
 layout: page
-title: blank
-description: TERMINET
+title: TERMINET
+description: nexT gEneRation sMart INterconnectEd ioT 
 img: assets/img/TERMINET2.png
 importance: 1
 category: work
