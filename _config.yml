@@ -72,11 +72,11 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: esmaxness # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: esmaxness # your Twitter handle
+twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: david-sarabia-jacome # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: # your Google Scholar ID
+scholar_userid: hFkFJ9UAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: 0000-0003-4930-9677 # your ORCID ID
@@ -85,7 +85,7 @@ quora_username: # your Quora username
 publons_id: # your ID on Publons
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 osf_id: # your OSF ID
-research_gate_profile: /profile/David-Sarabia-6 # your profile on ResearchGate
+research_gate_profile: David-Sarabia-6 # your profile on ResearchGate
 scopus_id: # your profile on Scopus
 blogger_url: # your blogger URL
 work_url: # work page URL
@@ -105,7 +105,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  The best way to contact me is by email: dfsarabia@gmail.com. Feel free to send me a message.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
