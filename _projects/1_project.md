@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: TERMINET
+description: 
+img: assets/img/TERMINET.png
 importance: 1
 category: work
-related_publications: einstein1956investigations, einstein1950meaning
+related_publications: Sarabia_J_come_2023
 ---
 
 Every project has a beautiful feature showcase page.
