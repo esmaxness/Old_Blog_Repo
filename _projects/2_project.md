@@ -10,7 +10,7 @@ category: work
 
 
 ### Duration
->
+
 **Start**: Oct-2021
 
 
