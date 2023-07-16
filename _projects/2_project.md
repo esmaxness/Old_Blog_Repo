@@ -2,7 +2,7 @@
 layout: page
 title: PANDEMIES 2020
 description: Radar COVID-19
-img: assets/img/3.jpg
+img: assets/img/virus.png
 importance: 2
 category: work
 ---
@@ -44,3 +44,5 @@ My participation focused on the development of an IoT application to collect the
 
 &nbsp;
 
+
+Imagen de <a href="https://pixabay.com/es/users/cromaconceptovisual-4595909/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4999857">cromaconceptovisual</a> en <a href="https://pixabay.com/es//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4999857">Pixabay</a>
