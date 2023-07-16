@@ -2,10 +2,10 @@
 layout: page
 title: PIXEL 
 description: Port IoT for Environmental Leverage
-img: assets/img/PIXEL.png
+img: assets/img/Pixel1.png
 importance: 3
 category: work
-related_publications: Sarabia_J_come_2019, SeaporJournal
+related_publications: Sarabia_Jacome_2019, SeaporJournal
 ---
 
 

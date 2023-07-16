@@ -7,9 +7,8 @@ importance: 1
 category: work
 related_publications: Sarabia_J_come_2023
 ---
-&nbsp;
 
-### DURATION
+### Duration
 
 *Start*: Oct-2020
 
