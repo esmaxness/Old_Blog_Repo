@@ -34,7 +34,7 @@ Great expectation of the proposal is to foster AR/VR contextual computing by dem
 
 &nbsp;
 
-### Participacion
+### Participation
 
 My participation will focus on the development, integration, and deployment of a RINA based IoT solution to support the requirements of intelligent IoT devices and to provide low latency. RINAsense prototype will be designed and implemented for easy IoT sensors prototyping in IoT platforms. Also, I will integrate the RINA based IoT solution with SDN-enabled middleware layer to facilitate the adoption of RINA advances into IoT applications. This contributions aim to design, develop, and integrate novel, intelligent IoT devices such as smart glasses, haptic devices, energy harvesting modules, smart animal monitoring collars, AR/VR environments, and autonomous drones, to support new market-oriented use cases. 
 

@@ -30,7 +30,7 @@ Project financed by the __Agència de Gestió d’Ajuts Universitaris i de Recer
 
 &nbsp;
 
-### Participacion
+### Participation
 
 My participation focused on the development of an IoT application to collect the ibeacons propagated by the radar COVID-19 mobile applications. These contact tracing apps were based on the Apple/Google API and the GAEN protocol. They employed the Bluetooth Low Energy (BLE) technology to propagate ibeacons with contact tracing information while preserving the privary of each person. I designed and implemented an IoT-based system to collect this ibeacons under the GAEN protocol by using a smartwatch (ESP-32 based wristband). The app developed was optimized until reach an 80% of battery consumption optimization. 
 
