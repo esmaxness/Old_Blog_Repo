@@ -1,7 +1,7 @@
 ---
 layout: page
-title: PANDEMIES
-description: 
+title: PANDEMIES 2020
+description: Radar COVID-19
 img: assets/img/3.jpg
 importance: 2
 category: work
