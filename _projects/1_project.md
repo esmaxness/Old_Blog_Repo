@@ -11,8 +11,10 @@ related_publications: Sarabia_J_come_2023
 
 ### DURATION
 
-**Start**: Oct-2020
-**End**: ongoing 
+*Start*: Oct-2020
+
+
+*End*: ongoing 
 
 &nbsp;
 

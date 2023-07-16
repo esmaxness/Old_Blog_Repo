@@ -11,10 +11,10 @@ category: work
 
 ### Duration
 
-**Start**: Oct-2021
+*Start*: Oct-2021
 
 
-**End**: Dic-2022 
+*End*: Dic-2022 
 
 &nbsp;
 
