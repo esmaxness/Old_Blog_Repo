@@ -7,8 +7,6 @@ importance: 2
 category: work
 ---
 
-
-
 ### Duration
 
 *Start*: Oct-2021
@@ -20,7 +18,7 @@ category: work
 
 ### Description
 
-A powerful stochastic tool to assess the impact of the COVID-19 in Catalonia integrating detailed demographic and mobility data. Mainly, the project was focused on understanding the propagation of COVID-19 in Catalyuna by providing a model to simulate the spread of the disease and estimate its impact. The model required several and reliable data sources to extract relevant features. From the point of view of IoT technology, it was studied the possibility to collect data on close contacts between people via a mobile phone application.
+A powerful stochastic tool to assess the impact of the COVID-19 in Catalonia integrating detailed demographic and mobility data. Mainly, the project was focused on understanding the propagation of COVID-19 in Catalyuna by providing a model to simulate the spread of the disease and estimate its impact. The model required several and reliable data sources to extract relevant features. From the point of view of IoT technology, it was studied the possibility to collect data on close contacts between people via a mobile phone application. This information was useful to extract features for modeling the propagation.
 
 
 &nbsp;
@@ -34,7 +32,9 @@ Project financed by the __Agència de Gestió d’Ajuts Universitaris i de Recer
 
 ### Participacion
 
-My participation focused on the development of an IoT application to collect the ibeacons propagated by the radar COVID-19 mobile applications. These contact tracing apps were based on the Apple/Google API and the GAEN protocol. They uses the Bluetooth Low Energy (BLE) technology to propagate ibeacons with contact tracing while preserving the privary of each person. I designed and implemented an application to collect this ibeacons under the GAEN protocol by using an ESP-32 based wristband. 
+My participation focused on the development of an IoT application to collect the ibeacons propagated by the radar COVID-19 mobile applications. These contact tracing apps were based on the Apple/Google API and the GAEN protocol. They employed the Bluetooth Low Energy (BLE) technology to propagate ibeacons with contact tracing information while preserving the privary of each person. I designed and implemented an IoT-based system to collect this ibeacons under the GAEN protocol by using a smartwatch (ESP-32 based wristband). The app developed was optimized until reach an 80% of battery consumption optimization. 
+
+
 
 
 

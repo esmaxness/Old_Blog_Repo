@@ -8,7 +8,6 @@ category: work
 related_publications: Sarabia_Jacome_2019, SeaporJournal
 ---
 
-
 ### Duration
 
 *Start*: Nov-2019
