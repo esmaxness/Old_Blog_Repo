@@ -32,7 +32,7 @@ TBC
 &nbsp;
 
 ### Participation
-TBC
+PIXELPORTS project (Maritime Ports, Big Data and IoT) developing a methodology to integrate data from heteregeneous IoT data sources by using Industrial Data Spaces (IDS) architecture. Developing a system to detect and predict the Valencia Port pollutants by using Big Data and Machine Learning. Designing a methodology to estimate vessels time at anchorage zone to reduce the pollution by using procedures such as slow steaming. 
 
 
 

@@ -2,10 +2,10 @@
 layout: page
 title: ACTIVAGE 
 description: ACTivating InnoVative IoT smart living environments for AGEing well
-img: assets/img/ACTIVAGE.jpg
+img: assets/img/activage2.jpg
 importance: 4
 category: work
-related_publications: 
+related_publications: Yacchirema_2018_1, Yacchirema_2018_2, Sarabia_Jacome_2019, Sarabia_J_come_2020
 ---
 
 ### Duration
@@ -32,7 +32,7 @@ TBC
 &nbsp;
 
 ### Participation
-TBC
+ActivAGE project (Smart Health) developing a prototype based on ESP32 to detect elderly falls using Deep Learning (Python-TensorFlow-C programming languages). Implementing a Fall detection system using an IoT architecture following the IoT-Edge-Cloud Continuum.
 
 
 

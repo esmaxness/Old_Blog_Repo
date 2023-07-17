@@ -1,80 +1,51 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: Inter-IoT
+description: Interoperability of Heterogeneous IoT Platforms
 img: assets/img/1.jpg
-importance: 3
-category: fun
+importance: 5
+category: work
+related_publications: Belsa_2018, Sarabia_Jacome_2018, 
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+### Duration
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+*Start*: Jan-2016
 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+*End*: Dic-2018 
+
+&nbsp;
+
+### Description
+INTER-IoT project is aiming at the design, implementation and experimentation of an open cross-layer framework and associated methodology to provide voluntary interoperability among heterogeneous Internet of Things (IoT) platforms. The proposal will allow developing effectively and efficiently smart IoT applications, atop different heterogeneous IoT platforms, spanning single and/or multiple application domains.
+
+The overall goal of the INTER-IoT project is to provide a interoperable framework architecture for seamless integration of different IoT architectures present in different application domains. Interoperability will be provided at different levels: device, network, middleware, services and data.
+
+The two application domains and use cases addressed in the project and in which the IoT framework will be applied are m-health and port transportation and logistics. The project outcome may optimize different operations (e.g. increasing efficiency in transportation time; reducing CO2 emission in a port environment; improving access control and safety; improving remote patient attendance and increase the number of subject that surgery units can assist using the mobile devices with the same resources; reducing time spent in hospitals premises or reduce the time dedicated to the assistance activities carried out directly at the surgery with advantage for subjects in charge and also benefits those waiting, i.e. reduction of the waiting list) in the two addresses domains, but it may be extended to other application domains in which there is a need to interconnect different IoT architectures already deployed. The project may deal with interoperability at different layers.
 
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
 
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+&nbsp;
+
+
+### Estimated Impact
+TBC
+
+
+&nbsp;
+
+### Participation
+InterIoT project (Interoperability of IoT) developing mechanism of IoT interoperability by using a physical and virtual IoT gateway. Developing a system to monitor sleep apnea by using data collected from Valencia smart city (VLCi). Developing a system to monitor COPD by integrating an IoT platform and the services of VLCi.
+
+
+
+&nbsp;
+
+### Cordis
+Link: https://cordis.europa.eu/project/id/732679
+
+&nbsp;
+
+
+
