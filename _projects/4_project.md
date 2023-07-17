@@ -2,7 +2,7 @@
 layout: page
 title: ACTIVAGE 
 description: Port IoT for Environmental Leverage
-img: assets/img/ACTIVAGE.png
+img: assets/img/ACTIVAGE.jpg
 importance: 4
 category: work
 related_publications: 
