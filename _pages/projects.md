@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Research project participations.
+description: Participation in research project.
 nav: true
 nav_order: 2
 display_categories: [work]
