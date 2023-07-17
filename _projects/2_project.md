@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PANDEMIES
-description: IoT for contact tracing COVID-19
+description: IoT technology for contact tracing COVID-19
 img: assets/img/virus.png
 importance: 2
 category: work
