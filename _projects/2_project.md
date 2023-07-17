@@ -18,7 +18,7 @@ category: work
 
 ### Description
 
-A powerful stochastic tool to assess the impact of the COVID-19 in Catalonia integrating detailed demographic and mobility data. Mainly, the project was focused on understanding the propagation of COVID-19 in Catalyuna by providing a model to simulate the spread of the disease and estimate its impact. The model required several and reliable data sources to extract relevant features. From the point of view of IoT technology, it was studied the possibility to collect data on close contacts between people via a mobile phone application. This information was useful to extract features for modeling the propagation.
+ The project was focused on understanding the propagation of COVID-19 in Catalyuna by providing a model to simulate the spread of the disease and estimate its impact. The model required several and reliable data sources to extract relevant features. From the point of view of IoT technology, it was studied the possibility to collect data on close contacts between people via a mobile phone application. This information was useful to extract features for modeling the propagation.
 
 
 &nbsp;
@@ -26,7 +26,7 @@ A powerful stochastic tool to assess the impact of the COVID-19 in Catalonia int
 
 ### Estimated Impact
 
-Project financed by the _Agència de Gestió d’Ajuts Universitaris i de Recerca_ (AGAUR) under the call *“Replegar-se per créixer: l’impacte de les pandèmies en un món sense fronteres visibles”*. 
+A powerful stochastic tool to assess the impact of the COVID-19 in Catalonia integrating detailed demographic and mobility data. Project financed by the _Agència de Gestió d’Ajuts Universitaris i de Recerca_ (AGAUR) under the call *“Replegar-se per créixer: l’impacte de les pandèmies en un món sense fronteres visibles”*. 
 
 &nbsp;
 

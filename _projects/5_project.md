@@ -22,15 +22,23 @@ INTER-IoT project is aiming at the design, implementation and experimentation of
 
 The overall goal of the INTER-IoT project is to provide a interoperable framework architecture for seamless integration of different IoT architectures present in different application domains. Interoperability will be provided at different levels: device, network, middleware, services and data.
 
-The two application domains and use cases addressed in the project and in which the IoT framework will be applied are m-health and port transportation and logistics. The project outcome may optimize different operations (e.g. increasing efficiency in transportation time; reducing CO2 emission in a port environment; improving access control and safety; improving remote patient attendance and increase the number of subject that surgery units can assist using the mobile devices with the same resources; reducing time spent in hospitals premises or reduce the time dedicated to the assistance activities carried out directly at the surgery with advantage for subjects in charge and also benefits those waiting, i.e. reduction of the waiting list) in the two addresses domains, but it may be extended to other application domains in which there is a need to interconnect different IoT architectures already deployed. The project may deal with interoperability at different layers.
-
+The two application domains and use cases addressed in the project and in which the IoT framework will be applied are m-health and port transportation and logistics. 
 
 
 &nbsp;
 
 
 ### Estimated Impact
-TBC
+The project outcome may optimize different operations in the two addresses domains, but it may be extended to other application domains in which there is a need to interconnect different IoT architectures already deployed. Mainly, the project contributed to: 
+
+- increase efficiency in transportation time, 
+- reduce CO2 emission in a port environment,
+- improve access control and safety,
+- improve remote patient attendance,
+- increase the number of subject that surgery units can assist using the mobile devices with the same resources,
+- reduce time spent in hospitals premises,
+- reduce the time dedicated to the assistance activities carried out directly at the surgery with advantage for subjects in charge and also benefits those waiting.
+
 
 
 &nbsp;
