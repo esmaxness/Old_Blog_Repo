@@ -3,7 +3,7 @@ layout: page
 title: Inter-IoT
 description: Interoperability of Heterogeneous IoT Platforms
 img: assets/img/InterIoT.jpg
-importance: 5
+importance: 2
 category: work
 related_publications: Belsa_2018, Sarabia_Jacome_2018, 
 ---
