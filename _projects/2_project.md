@@ -1,7 +1,7 @@
 ---
 layout: page
-title: PANDEMIES 2020
-description: Radar COVID-19
+title: PANDEMIES
+description: IoT for contact tracing COVID-19
 img: assets/img/virus.png
 importance: 2
 category: work
@@ -26,7 +26,7 @@ A powerful stochastic tool to assess the impact of the COVID-19 in Catalonia int
 
 ### Estimated Impact
 
-Project financed by the __Agència de Gestió d’Ajuts Universitaris i de Recerca__ (AGAUR) under the call *“Replegar-se per créixer: l’impacte de les pandèmies en un món sense fronteres visibles”*. 
+Project financed by the _Agència de Gestió d’Ajuts Universitaris i de Recerca_ (AGAUR) under the call *“Replegar-se per créixer: l’impacte de les pandèmies en un món sense fronteres visibles”*. 
 
 &nbsp;
 
