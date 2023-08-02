@@ -25,8 +25,8 @@ RUN apt-get clean \
     && rm -rf /var/lib/apt/lists/
 RUN pip3 cache purge
 
-# ENV GEM_HOME='root/gems' \
-#     PATH="root/gems/bin:${PATH}"
+ENV GEM_HOME='root/gems' \
+    PATH="root/gems/bin:${PATH}"
 
 # install jekyll and dependencies
 RUN gem install jekyll bundler
