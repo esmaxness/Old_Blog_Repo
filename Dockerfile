@@ -29,6 +29,8 @@ RUN pip3 cache purge
 
 # install jekyll and dependencies
 RUN gem install jekyll bundler
+RUN gem 'execjs'
+RUN gem 'therubyracer', :platforms => :ruby
 RUN mkdir /srv/jekyll
 ADD Gemfile /srv/jekyll
 WORKDIR /srv/jekyll
