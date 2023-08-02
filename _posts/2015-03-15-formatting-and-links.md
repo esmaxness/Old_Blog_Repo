@@ -3,7 +3,7 @@ layout: post
 title:  The Internet Problem
 date:   2015-03-15 16:40:16
 description: Internet is a big spaguetti without organization
-tags: formatting links
+tags: RINA links
 categories: sample-posts
 ---
 
