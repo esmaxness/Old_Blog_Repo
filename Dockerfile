@@ -12,7 +12,7 @@ ENV LANGUAGE en_US:en
 ENV LC_ALL en_US.UTF-8
 
 # add ruby and jekyll
-RUN apt-get install --no-install-recommends ruby-full build-essential zlib1g-dev -y
+RUN apt-get install --no-install-recommends ruby-full build-essential zlib1g-dev nodejs -y
 RUN apt-get install imagemagick -y
 
 # install python3 and jupyter
@@ -29,8 +29,6 @@ RUN pip3 cache purge
 
 # install jekyll and dependencies
 RUN gem install jekyll bundler
-RUN gem 'execjs'
-RUN gem 'therubyracer', :platforms => :ruby
 RUN mkdir /srv/jekyll
 ADD Gemfile /srv/jekyll
 WORKDIR /srv/jekyll
