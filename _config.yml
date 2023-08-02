@@ -124,7 +124,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 blog_name: IoT # blog_name will be displayed in your blog page
 blog_nav_title: IoT-blog # your blog must have a title for it to be displayed in the nav bar
 blog_description: IoT concepts and new advances
-permalink: /blog/:year/:title/
+permalink: /blog/ #:year/:title/
 
 # Pagination
 pagination:
